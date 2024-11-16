@@ -12,4 +12,12 @@ const API_ID = "";
 const API_TOKEN = "";
 ```
 
-The skipper/team can be set by the skippers name, e.g. "Boris Herrmann". The names list can be found here: https://vendee-globe.fly.dev/
+The skipper/team can be set by the skippers name, e.g. "Boris Herrmann", as parameter from the Scriptable.app. The list of names can be found here: https://vendee-globe.fly.dev/
+
+## API Access
+
+The API is not public. Drop me a message in case you would like to have access.
+
+## Notes
+
+It's a private project. Nothing I can guarantee! :D
