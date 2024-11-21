@@ -2,7 +2,7 @@
 
 A widget to show a team/skipper on e.g. the iOS homescreen. Data is being scraped on a regular basis.
 
-![./image.png](./image.png)
+![./image-01.jpeg](./image-01.jpeg)
 
 The following parameters need to be configured at the top of the widget:
 
